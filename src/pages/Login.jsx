@@ -192,7 +192,7 @@ const Login = () => {
       {/* Footer */}
       <footer className="relative z-10 w-full py-4 text-center text-xs text-slate-400 border-t border-cyan-500/10">
         <p>
-          ORCA Marine System &bull; Smart India Hackathon &bull; Fisherman Assistance Initiative
+          ORCA Marine Saurabh  System &bull; Smart India Hackathon &bull; Fisherman Assistance Initiative
         </p>
       </footer>
     </div>
